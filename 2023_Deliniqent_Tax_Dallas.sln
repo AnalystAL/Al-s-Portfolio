@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "2023_Deliniqent_Tax_Dallas", "2023_Deliniqent_Tax_Dallas\2023_Deliniqent_Tax_Dallas.dtproj", "{49C53611-42DA-416E-85CF-6E466CCDC4E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C53611-42DA-416E-85CF-6E466CCDC4E9}.Development|Default.ActiveCfg = Development
+		{49C53611-42DA-416E-85CF-6E466CCDC4E9}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79AB85CD-2B01-40D3-8ED0-C8CC3820DED5}
+	EndGlobalSection
+EndGlobal
